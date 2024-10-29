@@ -1,0 +1,41 @@
+body {
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
+}
+
+
+
+a{
+    color: white;
+    text-decoration: none;
+    align-items: center;
+
+}
+
+h1{
+    color: rgb(0, 0, 0) ;
+    
+    
+}
+
+h3{
+    padding: 56px;
+    
+    
+}
+header{
+   display: flex;
+   flex-direction: column;
+   justify-content: vertical;
+   align-items: horizontal;
+   background-color: rgb(196, 124, 172);
+   padding: 90px;
+   margin: 5%;
+}
+
+footer{
+    padding: 100px;
+}

@@ -1,0 +1,17 @@
+body{
+    background-color: rgba(173, 147, 183, 0.948);
+    color:white;
+}
+
+
+img{
+    width: 474px;
+    height: 474px;
+}
+a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+button{
+    background-color: rgb(188, 161, 173);
+}

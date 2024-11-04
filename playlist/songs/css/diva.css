@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(128, 128, 128);
+    color:white;
+}
+a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+button{
+    background-color: rgb(106, 106, 106);
+    
+}
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+a{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.box{
+    padding-inline-start: 50%;
+    padding-top: 0%;
+}
